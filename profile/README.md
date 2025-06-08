@@ -103,6 +103,11 @@ Interested in working with TRIDE AGENCY or contributing to our projects?
 - Join our discussions
 - Submit issues or feature requests
 
+### 🌐 Connect With Us
+
+- **Instagram**: [@tride.dev](https://www.instagram.com/tride.dev/) - Follow our development journey and behind-the-scenes content
+- **LinkedIn**: [TRIDE AGENCY](https://www.linkedin.com/company/tride-agency/) - Connect with us professionally and stay updated on company news
+
 ---
 
 **TRIDE AGENCY** - *Building Tomorrow's Solutions Today*
