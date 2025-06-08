@@ -56,6 +56,9 @@ To empower businesses and developers through innovative technology solutions, co
 - **OpenTheGate-Laravel** - Laravel framework implementation
 - **OpenTheGate-OCR-API-V2** - Advanced OCR processing system
 - **TO-Juara** - Private specialized project
+- **TRIVE** - Your smart solutions for electric vehicle
+- **Trashscan** - Smart Waste Management and Management Application to support an efficient, sustainable and beneficial waste management system.
+- **Blended Learning** - Learning Management System for Online and Offline Learning
 
 ## 🤝 Collaboration & Development
 
